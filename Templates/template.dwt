@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>时尚家饰网</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="top">
+	<h1>时尚家饰网</h1>
+    <p>您好！欢迎光临家居饰品商城 [<a href="#">请登录</a>] 新用户？[<a href="#">免费注册</a>]<span class="one">购物车中共有<strong>0</strong>个商品</span><span class="two">去结算</span></p>
+</div>
+<div class="nav">
+	<ul class="navLeft">
+    	<li><a href="#">首页</a></li>
+        <li><a href="#">摆饰</a></li>
+        <li><a href="#">挂饰</a></li>
+        <li><a href="#">花艺</a></li>
+        <li><a href="#">家具</a></li>
+        <li><a href="#">灯饰</a></li>
+        <li><a href="#">布艺家纺</a></li>
+        <li><a href="#">配饰用品</a></li>
+    </ul>
+    <ul class="navRight">
+    	<li><a href="#">品牌查询</a></li>
+        <li><a href="#">积分兑换</a></li>
+    </ul>
+</div>
+<div class="search">
+	<span class="seaLeft"></span>
+<div class="seaCenter">
+    	<p class="left"><span><input type="text" class="txt" value="请输入搜索关键词" /></span><span><input name="" type="button" class="btn" /></span></p>
+    <p class="right">热门关键词：<a href="#">有框画</a><a href="#">工艺玻璃</a><a href="#">金属饰品</a><a href="#">陶瓷摆件</a><a href="#">桌几花艺</a><a href="#">单枝花材</a></p>
+  </div>
+    <span class="seaRight"></span>
+</div>
+
+<div class="wrapContent">
+  <div class="left"></div>
+	<!-- TemplateBeginEditable name="EditRegion3" -->
+	<div class="right"></div>
+	<!-- TemplateEndEditable --></div>
+
+<div class="wrapFooter">
+	关于我们 | 购物指南 | 配送说明 | 支付方式 | 常见问题 | 联系我们 | 招聘信息 | 请您留言 |友情链接<br /><br />
+    Copyright (C) 2009-2010 All Rights Reserved. 茶叶网上专卖店管理系统 版权所有   沪ICP备01234567号<br />
+    服务时间：周一至周日 08:30 — 20:00  全国订购及服务热线：021-98765432<br />
+    联系地址：上海市某某路某大厦20楼B座2008室   邮政编码：210000  
+</div>
+</body>
+</html>
